@@ -19,9 +19,9 @@ class Nau:
         
     def mostrar(self):
         print()
-        print("   *")
-        print("  ***")
-        print(" *****")
-        print("*******")
+        print("   ^")
+        print("  ^^^")
+        print(" ^^^^^")
+        print("^^^^^^^")
         print(f"x:{self.x}, y:{self.y}")        
         print()
