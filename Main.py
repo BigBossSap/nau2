@@ -4,7 +4,7 @@ def menu():
     print("w- Moure amunt")
     print("a- Moure equerre")
     print("d- Moure dreta")
-    print("s- Moure avall")    
+    print("s- Mouree avall")    
     print("m- Mostra nau")        
     print("0- Sortir")
 
